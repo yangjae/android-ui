@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HorizontalPaging.iml" filepath="$PROJECT_DIR$/HorizontalPaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HorizontalPagingSample/HorizontalPagingSample.iml" filepath="$PROJECT_DIR$/HorizontalPagingSample/HorizontalPagingSample.iml" />
+    </modules>
+  </component>
+</project>
+
