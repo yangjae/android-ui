@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-8cb1870b56a454a6ab780382735564071d72fee7.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/build/intermediates/pre-dexed/debug/classes-f3699334b0fb11645b4e9b08c502804649a1f75a.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/build/intermediates/pre-dexed/debug/classes-2a49c99662eb169f8c254f5a383c1d28309366c9.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="50ffbc8fda41e9cba4bca2f5267bdd9842325ab2"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-a46bd5f8b8a7ff5ad592f0d1286e1d335e677fcc.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b274fcef3e31367c6b53c3ad56ff788783eb0f28"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/build/intermediates/pre-dexed/debug/classes-87d8b404ba20a23f25c53cea20c19923939cf195.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshListFragment/SwipeRefreshListFragmentSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+
+</pre-dex-items>

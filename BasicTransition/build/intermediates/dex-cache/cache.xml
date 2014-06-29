@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/intermediates/pre-dexed/debug/classes-b47065abd1dd9231234b20de787f651cbf3a5e94.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-2815ff03b33bdb53c046b0930e6d65bd2b4ee087.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b274fcef3e31367c6b53c3ad56ff788783eb0f28"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-31100fcbdace7308efd71e3703eb6e4eeffb52ef.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/intermediates/pre-dexed/debug/classes-ae55067846d2015e299be5a797fd887943880287.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="50ffbc8fda41e9cba4bca2f5267bdd9842325ab2"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+
+</pre-dex-items>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tile"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/drawable-hdpi/tile.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_sample"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/layout/fragment_sample.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/layout-w720dp/activity_main.xml"
+                qualifiers="w720dp-v13"
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="main_menu"
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/menu/main_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values/base-strings.xml"
+                qualifiers="" >
+                <string name="app_name" >SwipeRefreshMultipleViews
+                </string>
+                <string name="intro_message" >
+<![CDATA[
+        
+            
+            A sample which shows how to use SwipeRefreshLayout to add the \'swipe-to-refresh\'
+            gesture to a layout with multiple children, enabling the ability to trigger a
+            refresh from swiping down on the visible view. In this sample, SwipeRefreshLayout
+            contains a scrollable GridView, along with a TextView empty view.
+            
+        
+        ]]>
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values/color.xml"
+                qualifiers="" >
+                <color name="swipe_color_2" >#99CC00
+                </color>
+                <color name="swipe_color_1" >#B6DB49
+                </color>
+                <color name="swipe_color_4" >#7CAF00
+                </color>
+                <color name="swipe_color_3" >#8ABD00
+                </color>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values/fragmentview_strings.xml"
+                qualifiers="" >
+                <string name="sample_hide_log" >Hide Log
+                </string>
+                <string name="sample_show_log" >Show Log
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="empty_text" >List is empty! Swipe down to refresh.
+                </string>
+                <string name="menu_clear" >Clear items
+                </string>
+                <string name="menu_refresh" >Refresh
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values/template-dimens.xml"
+                qualifiers="" >
+                <dimen name="margin_huge" >64dp
+                </dimen>
+                <dimen name="margin_tiny" >4dp
+                </dimen>
+                <dimen name="horizontal_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_large" >32dp
+                </dimen>
+                <dimen name="margin_medium" >16dp
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values/template-styles.xml"
+                qualifiers="" >
+
+                <style name="Widget" />
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceMedium
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.1
+                    </item>
+                </style>
+
+                <style name="Widget.SampleMessageTile" >
+                    <item name="android:background">
+@drawable/tile
+                    </item>
+                    <item name="android:shadowColor">
+#7F000000
+                    </item>
+                    <item name="android:shadowDy">
+-3.5
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Light" />
+
+                <style
+                    name="Theme.Sample"
+                    parent="Theme.Base" />
+
+                <style
+                    name="AppTheme"
+                    parent="Theme.Sample" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values-sw600dp/template-dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="horizontal_page_margin" >@dimen/margin_huge
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values-sw600dp/template-styles.xml"
+                qualifiers="sw600dp-v13" >
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceLarge
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.2
+                    </item>
+                    <item name="android:shadowDy">
+-6.5
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values-v11/template-styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/main/res/values-v21/template-styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Material.Light" />
+            </file>
+        </source>
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/common/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/template/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/SwipeRefreshMultipleViews/SwipeRefreshMultipleViewsSample/src/debug/res" />
+    </dataSet>
+
+</merger>

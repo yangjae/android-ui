@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-hdpi/ic_stat_notification.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tile"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-hdpi/tile.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-hdpi-v11/ic_stat_notification.png"
+                qualifiers="hdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-hdpi-v9/ic_stat_notification.png"
+                qualifiers="hdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-ldpi-v11/ic_stat_notification.png"
+                qualifiers="ldpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-ldpi-v9/ic_stat_notification.png"
+                qualifiers="ldpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-mdpi/ic_stat_notification.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-mdpi-v11/ic_stat_notification.png"
+                qualifiers="mdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-mdpi-v9/ic_stat_notification.png"
+                qualifiers="mdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-xhdpi/ic_stat_notification.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-xhdpi-v11/ic_stat_notification.png"
+                qualifiers="xhdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-xhdpi-v9/ic_stat_notification.png"
+                qualifiers="xhdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_layout"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/layout/sample_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/base-strings.xml"
+                qualifiers="" >
+                <string name="app_name" >BasicNotifications
+                </string>
+                <string name="intro_message" >
+<![CDATA[
+        
+            
+            This sample demonstrates how to display events in the system\'s notification bar. The
+            NotificationCompat API is used for compatibility with older devices, running Android
+            2.2 (Froyo) or newer.
+            
+        
+        ]]>
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="description" >        Tap the button below to send a notification.\n\nThe notification\'s icon will immediately
+        appear in the notification bar. Drag the notification bar open to see the full
+        notification. Depending on which version of Android you\'re running, the full
+        notification will display an icon and two or three lines of text.
+        \n\nTap the notification to execute the notification\'s \"action,\" which is an intent
+        that we associate with the notification when it\'s created. This sample notification\'s
+        action is to send a browse intent with the url of the Notification docs on
+        developer.android.com.
+        \n\nThis sample uses the NotificationCompat API for maximum compatibility with versions
+        of Android from Froyo (Android 2.2) to the present. Try it on devices or AVDs that are
+        running different versions of Android. You\'ll see that while the presentation varies
+        slightly, the basic functionality is the same. NotificationCompat automatically takes
+        advantage of the expanded notification format in newer versions of Android, and
+        falls back gracefully to a reduced set of functionality on earlier versions.
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/template-dimens.xml"
+                qualifiers="" >
+                <dimen name="margin_huge" >64dp
+                </dimen>
+                <dimen name="margin_tiny" >4dp
+                </dimen>
+                <dimen name="horizontal_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_large" >32dp
+                </dimen>
+                <dimen name="margin_medium" >16dp
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/template-styles.xml"
+                qualifiers="" >
+
+                <style name="Widget" />
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceMedium
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.1
+                    </item>
+                </style>
+
+                <style name="Widget.SampleMessageTile" >
+                    <item name="android:background">
+@drawable/tile
+                    </item>
+                    <item name="android:shadowColor">
+#7F000000
+                    </item>
+                    <item name="android:shadowDy">
+-3.5
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Light" />
+
+                <style
+                    name="Theme.Sample"
+                    parent="Theme.Base" />
+
+                <style
+                    name="AppTheme"
+                    parent="Theme.Sample" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values-sw600dp/template-dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="horizontal_page_margin" >@dimen/margin_huge
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values-sw600dp/template-styles.xml"
+                qualifiers="sw600dp-v13" >
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceLarge
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.2
+                    </item>
+                    <item name="android:shadowDy">
+-6.5
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values-v11/template-styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values-v21/template-styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Material.Light" />
+            </file>
+        </source>
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/common/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/template/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/debug/res" />
+    </dataSet>
+
+</merger>

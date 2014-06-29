@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshMultipleViews.iml" filepath="$PROJECT_DIR$/SwipeRefreshMultipleViews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshMultipleViewsSample/SwipeRefreshMultipleViewsSample.iml" filepath="$PROJECT_DIR$/SwipeRefreshMultipleViewsSample/SwipeRefreshMultipleViewsSample.iml" />
+    </modules>
+  </component>
+</project>
+

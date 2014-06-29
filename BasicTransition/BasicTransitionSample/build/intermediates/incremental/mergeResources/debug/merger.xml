@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res" >
+            <file
+                name="oval"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/drawable/oval.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tile"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/drawable-hdpi/tile.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_basic_transition"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout/activity_basic_transition.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_basic_transition"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout/fragment_basic_transition.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="scene1"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout/scene1.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="scene2"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout/scene2.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="scene3"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout/scene3.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/layout-w720dp/activity_main.xml"
+                qualifiers="w720dp-v13"
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/menu/main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                name="changebounds_fadein_together"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/transition/changebounds_fadein_together.xml"
+                qualifiers=""
+                type="transition" />
+            <file
+                name="scene3_transition_manager"
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/transition/scene3_transition_manager.xml"
+                qualifiers=""
+                type="transition" />
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values/base-strings.xml"
+                qualifiers="" >
+                <string name="app_name" >BasicTransition
+                </string>
+                <string name="intro_message" >
+<![CDATA[
+        
+            
+	    This sample demonstrates the basic use of the transition framework introduced in KitKat.
+	    Select each of the RadioButtons to switch between the Scenes.
+            
+        
+        ]]>
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="square_size_normal" >50dp
+                </dimen>
+                <dimen name="square_size_expanded" >100dp
+                </dimen>
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values/fragmentview_strings.xml"
+                qualifiers="" >
+                <string name="sample_hide_log" >Hide Log
+                </string>
+                <string name="sample_show_log" >Show Log
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="scene_4" >4
+                </string>
+                <string name="additional_message" >This text fades in and out.
+                </string>
+                <string name="scene_3" >3
+                </string>
+                <string name="scene_2" >2
+                </string>
+                <string name="scene" >Scene
+                </string>
+                <string name="scene_1" >1
+                </string>
+                <string name="hello" >Hello!
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values/template-dimens.xml"
+                qualifiers="" >
+                <dimen name="margin_huge" >64dp
+                </dimen>
+                <dimen name="margin_tiny" >4dp
+                </dimen>
+                <dimen name="horizontal_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_large" >32dp
+                </dimen>
+                <dimen name="margin_medium" >16dp
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values/template-styles.xml"
+                qualifiers="" >
+
+                <style name="Widget" />
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceMedium
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.1
+                    </item>
+                </style>
+
+                <style name="Widget.SampleMessageTile" >
+                    <item name="android:background">
+@drawable/tile
+                    </item>
+                    <item name="android:shadowColor">
+#7F000000
+                    </item>
+                    <item name="android:shadowDy">
+-3.5
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Light" />
+
+                <style
+                    name="Theme.Sample"
+                    parent="Theme.Base" />
+
+                <style
+                    name="AppTheme"
+                    parent="Theme.Sample" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values-sw600dp/template-dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="horizontal_page_margin" >@dimen/margin_huge
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values-sw600dp/template-styles.xml"
+                qualifiers="sw600dp-v13" >
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceLarge
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.2
+                    </item>
+                    <item name="android:shadowDy">
+-6.5
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values-v11/template-styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values-v21/template-styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Material.Light" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/main/res/values-w820dp/dimens.xml"
+                qualifiers="w820dp-v13" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/common/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/template/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/BasicTransition/BasicTransitionSample/src/debug/res" />
+    </dataSet>
+
+</merger>

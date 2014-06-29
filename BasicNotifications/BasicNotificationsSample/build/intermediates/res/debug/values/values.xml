@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/template-dimens.xml -->
+    <eat-comment />
+
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">BasicNotifications</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="description">        Tap the button below to send a notification.\n\nThe notification\'s icon will immediately
+        appear in the notification bar. Drag the notification bar open to see the full
+        notification. Depending on which version of Android you\'re running, the full
+        notification will display an icon and two or three lines of text.
+        \n\nTap the notification to execute the notification\'s \"action,\" which is an intent
+        that we associate with the notification when it\'s created. This sample notification\'s
+        action is to send a browse intent with the url of the Notification docs on
+        developer.android.com.
+        \n\nThis sample uses the NotificationCompat API for maximum compatibility with versions
+        of Android from Froyo (Android 2.2) to the present. Try it on devices or AVDs that are
+        running different versions of Android. You\'ll see that while the presentation varies
+        slightly, the basic functionality is the same. NotificationCompat automatically takes
+        advantage of the expanded notification format in newer versions of Android, and
+        falls back gracefully to a reduced set of functionality on earlier versions.</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="intro_message">
+<![CDATA[
+        
+            
+            This sample demonstrates how to display events in the system\'s notification bar. The
+            NotificationCompat API is used for compatibility with older devices, running Android
+            2.2 (Froyo) or newer.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/BasicNotifications/BasicNotificationsSample/src/main/res/values/template-styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="Theme.Sample" />
+
+    <style name="Theme.Base" parent="android:Theme.Light" />
+
+    <style name="Theme.Sample" parent="Theme.Base" />
+
+    <style name="Widget" />
+
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>

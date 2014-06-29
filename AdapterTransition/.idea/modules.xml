@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterTransition.iml" filepath="$PROJECT_DIR$/AdapterTransition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterTransitionSample/AdapterTransitionSample.iml" filepath="$PROJECT_DIR$/AdapterTransitionSample/AdapterTransitionSample.iml" />
+    </modules>
+  </component>
+</project>
+

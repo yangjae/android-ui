@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/template-dimens.xml -->
+    <eat-comment />
+
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">CustomNotifications</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="collapsed">I\'m the collapsed notification.\nCreated at: %s</string>
+    <string name="collapsed_image">A single Android robot waving. Symbolises a collapsed
+        notification.</string>
+    <string name="custom_notification">I\'m a custom notification.</string>
+    <string name="expanded">I\'m the expanded notification.\nCollapse me!</string>
+    <string name="expanded_image">Two Androids on top of each other. Symbolises an expanded
+        notification.</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="intro_message">
+<![CDATA[
+        
+            
+            This sample demonstrates notifications with custom content views.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="intro_text">This sample demonstrates how a notification is created using the <b>NotificationCompatBuilder</b>         with a custom content view. The layout of the notification is defined as a
+        layout resource and inflated as a <b>RemoteViews</b> object.
+        \n\nOn API level 16 and above, a different layout is inflated and set as
+        the <i>big content view</i>, which is used when the notification is expanded.
+        \n\n<b>Use the button below to create the notification.
+        \n\nIf your device is running Jelly Bean or above, try expanding or collapsing
+        the notification to see the different layouts.</b></string>
+    <string name="show_notification">Show Notification</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/template-styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="Theme.Sample" />
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="NotificationContent" parent="@android:style/TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
+    </style>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/template-styles.xml -->
+    <eat-comment />
+
+    <style name="Theme.Base" parent="android:Theme.Light" />
+
+    <style name="Theme.Sample" parent="Theme.Base" />
+
+    <style name="Widget" />
+
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>

@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-hdpi/ic_stat_custom.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="tile"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-hdpi/tile.9.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-hdpi-v11/ic_stat_custom.png"
+                qualifiers="hdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-hdpi-v9/ic_stat_custom.png"
+                qualifiers="hdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-ldpi-v11/ic_stat_custom.png"
+                qualifiers="ldpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-ldpi-v9/ic_stat_custom.png"
+                qualifiers="ldpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-mdpi/ic_stat_custom.png"
+                qualifiers="mdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-mdpi-v11/ic_stat_custom.png"
+                qualifiers="mdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-mdpi-v9/ic_stat_custom.png"
+                qualifiers="mdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xhdpi/ic_stat_custom.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="robot"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xhdpi/robot.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="robot_expanded"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xhdpi/robot_expanded.png"
+                qualifiers="xhdpi-v4"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xhdpi-v11/ic_stat_custom.png"
+                qualifiers="xhdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_custom"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xhdpi-v9/ic_stat_custom.png"
+                qualifiers="xhdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi-v4"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/layout/activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="notification"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/layout/notification.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="notification_expanded"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/layout/notification_expanded.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sample_main"
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/layout/sample_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/base-strings.xml"
+                qualifiers="" >
+                <string name="app_name" >CustomNotifications
+                </string>
+                <string name="intro_message" >
+<![CDATA[
+        
+            
+            This sample demonstrates notifications with custom content views.
+            
+        
+        ]]>
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="collapsed" >I\'m the collapsed notification.\nCreated at: %s
+                </string>
+                <string name="expanded" >I\'m the expanded notification.\nCollapse me!
+                </string>
+                <string name="intro_text" >This sample demonstrates how a notification is created using the
+<b>
+NotificationCompatBuilder
+                    </b>        with a custom content view. The layout of the notification is defined as a
+        layout resource and inflated as a 
+<b>
+RemoteViews
+                    </b> object.
+        \n\nOn API level 16 and above, a different layout is inflated and set as
+        the 
+<i>
+big content view
+                    </i>, which is used when the notification is expanded.
+        \n\n
+<b>
+Use the button below to create the notification.
+        \n\nIf your device is running Jelly Bean or above, try expanding or collapsing
+        the notification to see the different layouts.
+                    </b></string>
+                <string name="collapsed_image" >A single Android robot waving. Symbolises a collapsed
+        notification.
+                </string>
+                <string name="custom_notification" >I\'m a custom notification.
+                </string>
+                <string name="show_notification" >Show Notification
+                </string>
+                <string name="expanded_image" >Two Androids on top of each other. Symbolises an expanded
+        notification.
+                </string>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="NotificationContent"
+                    parent="@android:style/TextAppearance.Small" >
+                    <item name="android:textColor">
+?android:attr/textColorPrimaryInverse
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/template-dimens.xml"
+                qualifiers="" >
+                <dimen name="margin_huge" >64dp
+                </dimen>
+                <dimen name="margin_tiny" >4dp
+                </dimen>
+                <dimen name="horizontal_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_large" >32dp
+                </dimen>
+                <dimen name="margin_medium" >16dp
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+                <dimen name="margin_small" >8dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values/template-styles.xml"
+                qualifiers="" >
+
+                <style name="Widget" />
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceMedium
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.1
+                    </item>
+                </style>
+
+                <style name="Widget.SampleMessageTile" >
+                    <item name="android:background">
+@drawable/tile
+                    </item>
+                    <item name="android:shadowColor">
+#7F000000
+                    </item>
+                    <item name="android:shadowDy">
+-3.5
+                    </item>
+                    <item name="android:shadowRadius">
+2
+                    </item>
+                </style>
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Light" />
+
+                <style
+                    name="Theme.Sample"
+                    parent="Theme.Base" />
+
+                <style
+                    name="AppTheme"
+                    parent="Theme.Sample" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values-sw600dp/template-dimens.xml"
+                qualifiers="sw600dp-v13" >
+                <dimen name="horizontal_page_margin" >@dimen/margin_huge
+                </dimen>
+                <dimen name="vertical_page_margin" >@dimen/margin_medium
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values-sw600dp/template-styles.xml"
+                qualifiers="sw600dp-v13" >
+
+                <style name="Widget.SampleMessage" >
+                    <item name="android:textAppearance">
+?android:textAppearanceLarge
+                    </item>
+                    <item name="android:lineSpacingMultiplier">
+1.2
+                    </item>
+                    <item name="android:shadowDy">
+-6.5
+                    </item>
+                </style>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values-sw720dp-land/dimens.xml"
+                qualifiers="sw720dp-land-v13" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values-v11/template-styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Holo.Light" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values-v21/template-styles.xml"
+                qualifiers="v21" >
+
+                <style
+                    name="Theme.Base"
+                    parent="android:Theme.Material.Light" />
+            </file>
+            <file
+                path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/main/res/values-v9/styles.xml"
+                qualifiers="v9" >
+
+                <style
+                    name="NotificationContent"
+                    parent="@android:style/TextAppearance.StatusBar.EventContent" >
+                </style>
+            </file>
+        </source>
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/common/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/template/res" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/build/generated/res/generated/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/diesel/github/Google Samples/android-L/ui/CustomNotifications/CustomNotificationsSample/src/debug/res" />
+    </dataSet>
+
+</merger>

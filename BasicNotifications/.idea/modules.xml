@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicNotifications.iml" filepath="$PROJECT_DIR$/BasicNotifications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicNotificationsSample/BasicNotificationsSample.iml" filepath="$PROJECT_DIR$/BasicNotificationsSample/BasicNotificationsSample.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/TextLinkifySample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-ed5a5e03acd7de0828214a7d9325313ee62194cd.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b274fcef3e31367c6b53c3ad56ff788783eb0f28"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/TextLinkifySample/build/intermediates/pre-dexed/debug/classes-0d15ee5f55672eeff3d017e3eb8e684410589b5f.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/TextLinkifySample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-7f88ce3f598867ca514c6dd0668d30d564223511.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/TextLinkifySample/build/intermediates/pre-dexed/debug/classes-67e9c6f1efda5a41ae9adb2a3908505c993b420b.jar"
+        jar="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="50ffbc8fda41e9cba4bca2f5267bdd9842325ab2"/>
+    <item
+        dex="/Users/diesel/github/Google Samples/android-L/ui/TextLinkify/TextLinkifySample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+
+</pre-dex-items>

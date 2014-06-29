@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/template-dimens.xml -->
+    <eat-comment />
+
+    <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
+    <dimen name="margin_huge">64dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_tiny">4dp</dimen>
+    <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">TextSwitcher</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="intro">This sample illustrates the use of a <b>TextSwitcher</b> to display text.
+\n\n<b>Click the button</b> below to set new text in the TextSwitcher and observe the in and out
+ fade animations.</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/base-strings.xml -->
+    <eat-comment />
+
+    <string name="intro_message">
+<![CDATA[
+        
+            
+                This sample illustrates the use of a TextSwitcher to display text.
+                \n\nClick the button below to set new text in the TextSwitcher and observe the
+                in and out fade animations.
+            
+        
+        ]]>
+    </string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="next">Next</string>
+    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/TextSwitcher/TextSwitcherSample/src/main/res/values/template-styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="Theme.Sample" />
+
+    <style name="Theme.Base" parent="android:Theme.Light" />
+
+    <style name="Theme.Sample" parent="Theme.Base" />
+
+    <style name="Widget" />
+
+    <style name="Widget.SampleMessage">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:lineSpacingMultiplier">1.1</item>
+    </style>
+
+    <style name="Widget.SampleMessageTile">
+        <item name="android:background">@drawable/tile</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDy">-3.5</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+</resources>
