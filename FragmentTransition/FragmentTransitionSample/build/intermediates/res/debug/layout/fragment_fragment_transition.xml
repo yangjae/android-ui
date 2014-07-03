@@ -29,4 +29,4 @@ limitations under the License.
     android:stretchMode="columnWidth"
     android:verticalSpacing="1dp"
     tools:context="com.example.android.fragmenttransition.FragmentTransitionFragment"/>
-<!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_fragment_transition.xml -->
+<!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_fragment_transition.xml -->

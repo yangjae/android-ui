@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
     <eat-comment />
 
     <attr name="actionBarDivider" format="reference" />
@@ -481,7 +481,7 @@
     <dimen name="abc_panel_menu_list_width">296dp</dimen>
     <dimen name="abc_search_view_preferred_width">320dip</dimen>
     <dimen name="abc_search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-dimens.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-dimens.xml -->
     <eat-comment />
 
     <dimen name="horizontal_page_margin">@dimen/margin_medium</dimen>
@@ -491,7 +491,7 @@
     <dimen name="margin_small">8dp</dimen>
     <dimen name="margin_tiny">4dp</dimen>
     <dimen name="vertical_page_margin">@dimen/margin_medium</dimen>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
     <eat-comment />
 
     <item name="action_bar_activity_content" type="id"/>
@@ -514,7 +514,7 @@
     <string name="abc_searchview_description_voice">Voice search</string>
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/base-strings.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/base-strings.xml -->
     <eat-comment />
 
     <string name="app_name">FragmentTransition</string>
@@ -527,20 +527,20 @@
         
         ]]>
     </string>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/fragmentview_strings.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/fragmentview_strings.xml -->
     <eat-comment />
 
     <string name="sample_hide_log">Hide Log</string>
     <string name="sample_show_log">Show Log</string>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
     <eat-comment />
 
     <style name="AppTheme" parent="Theme.Sample" />
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
     <eat-comment />
 
     <style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
@@ -780,11 +780,11 @@
         <!-- ShareActionProvider attributes -->
         <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
     </style>
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
     <eat-comment />
 
     <style name="Theme.Base" parent="android:Theme.Light" />
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
     <eat-comment />
 
     <style name="Theme.Base.AppCompat" parent="Theme.Base">
@@ -913,13 +913,13 @@
     </style>
 
     <style name="Theme.Base.Light" parent="android:Theme.Light" />
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
     <eat-comment />
 
     <style name="Theme.Sample" parent="Theme.Base" />
 
     <style name="Widget" />
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml -->
     <eat-comment />
 
     <style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar" />
@@ -1199,7 +1199,7 @@
     <style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal" />
 
     <style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner" />
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml -->
     <eat-comment />
 
     <style name="Widget.SampleMessage">

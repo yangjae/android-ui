@@ -2,16 +2,40 @@
 <pre-dex-items>
 
     <item
-        dex="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/support-v4-18.0.0-2484d88715cbcdaf306e7f8449d6546e84c1520d.jar"
-        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        dex="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-7348ea96b5b111a868d021578fbade1e375004e9.jar"
+        jar="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
         jumboMode="false"
         revision="20.0.0"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156"/>
+        sha1="b274fcef3e31367c6b53c3ad56ff788783eb0f28"/>
     <item
-        dex="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/classes-36f26456cc676ed9ed28cf2a2afc6711f6c0fd5e.jar"
-        jar="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
+        dex="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/classes-d026261dec7536e2c43ed9eecd82b9aa06b09037.jar"
+        jar="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="50ffbc8fda41e9cba4bca2f5267bdd9842325ab2"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-941417f01782e1f83d79f1a71ebe0367aba36819.jar"
+        jar="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/classes-18f24b351fb547d207b60b7153a4bd73479678f0.jar"
+        jar="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/classes.jar"
         jumboMode="false"
         revision="20.0.0"
         sha1="8f11f56e350eacabf2273f646d981356eea0ed77"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/classes-2831c092597e37f01b05748ce1260f4e3150afb1.jar"
+        jar="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
 
 </pre-dex-items>

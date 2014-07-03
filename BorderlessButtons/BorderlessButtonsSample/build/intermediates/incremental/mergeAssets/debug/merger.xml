@@ -2,16 +2,16 @@
 <merger version="2" >
 
     <dataSet config="21.0.0-rc1" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/assets" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/assets" />
     </dataSet>
     <dataSet config="21.0.0-rc1" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/assets" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/assets" />
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/assets" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/debug/assets" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/debug/assets" />
     </dataSet>
 
 </merger>

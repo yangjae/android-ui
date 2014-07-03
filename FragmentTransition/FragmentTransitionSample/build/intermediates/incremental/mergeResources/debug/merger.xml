@@ -2,1309 +2,1309 @@
 <merger version="2" >
 
     <dataSet config="18.0.0" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res" >
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res" >
             <file
                 name="abc_fade_in"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_fade_in.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_fade_in.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="abc_fade_out"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_fade_out.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_fade_out.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="abc_slide_in_bottom"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_in_bottom.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_in_bottom.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="abc_slide_in_top"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_in_top.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_in_top.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="abc_slide_out_bottom"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_out_bottom.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_out_bottom.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="abc_slide_out_top"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_out_top.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/anim/abc_slide_out_top.xml"
                 qualifiers=""
                 type="anim" />
             <file
                 name="abc_search_url_text_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/color/abc_search_url_text_holo.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/color/abc_search_url_text_holo.xml"
                 qualifiers=""
                 type="color" />
             <file
                 name="abc_ic_clear"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_ic_clear_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_item_background_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_item_background_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_list_selector_background_transition_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_list_selector_background_transition_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_list_selector_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_list_selector_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_search_dropdown_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_search_dropdown_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_spinner_ab_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_spinner_ab_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_tab_indicator_ab_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_tab_indicator_ab_holo.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_tab_indicator_ab_holo.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_textfield_searchview_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_textfield_searchview_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_textfield_searchview_right_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_textfield_searchview_right_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_light.xml"
                 qualifiers=""
                 type="drawable" />
             <file
                 name="abc_ab_bottom_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_dark_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_solid_light_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_bottom_transparent_light_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_share_pack_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_share_pack_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_share_pack_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_dark_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_solid_light_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_dark_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_solid_light_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_stacked_transparent_light_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_dark_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ab_transparent_light_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_bottom_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_bottom_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_bottom_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_top_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_top_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_cab_background_top_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_ab_back_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_ab_back_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_ab_back_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_cab_done_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_cab_done_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_cab_done_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_disabled"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_disabled.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_disabled.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_normal"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_normal.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_normal.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_search_api_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_disabled_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_clear_search_api_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_commit_search_api_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_commit_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_commit_search_api_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_go"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_go_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_go_search_api_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_moreoverflow_normal_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_moreoverflow_normal_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_share_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_dark.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_share_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_menu_share_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_search"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_search_api_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_voice_search"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_voice_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_ic_voice_search_api_holo_light.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_divider_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_divider_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_divider_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_focused_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_focused_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_focused_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_longpressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_longpressed_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_pressed_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_pressed_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_pressed_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_selector_disabled_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_selector_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_list_selector_disabled_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_dropdown_panel_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_dropdown_panel_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_dropdown_panel_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_hardkey_panel_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_hardkey_panel_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_menu_hardkey_panel_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_default_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_disabled_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_disabled_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_focused_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_focused_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_focused_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_pressed_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_pressed_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_spinner_ab_pressed_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_focused_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_focused_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_pressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_selected_pressed_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_unselected_pressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_tab_unselected_pressed_holo.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_default_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_default_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_selected_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_selected_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_right_selected_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_selected_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_dark.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_selected_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-hdpi/abc_textfield_search_selected_holo_light.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_solid_dark_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_bottom_transparent_light_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_share_pack_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_share_pack_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_share_pack_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_share_pack_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_solid_dark_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_solid_light_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_solid_dark_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_solid_light_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_transparent_dark_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_transparent_light_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_bottom_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_bottom_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_top_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_top_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_top_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_top_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_top_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_top_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_ab_back_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_ab_back_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_ab_back_holo_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_ab_back_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_ab_back_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_ab_back_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_cab_done_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_cab_done_holo_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_cab_done_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_cab_done_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_cab_done_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_disabled"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_disabled.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_disabled.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_normal"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_normal.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_normal.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_search_api_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_search_api_disabled_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_clear_search_api_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_commit_search_api_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_commit_search_api_holo_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_commit_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_commit_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_commit_search_api_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_go"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_go.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_go.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_go_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_go_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_go_search_api_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_moreoverflow_normal_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_moreoverflow_normal_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_share_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_share_holo_dark.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_share_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_share_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_menu_share_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_search"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search_api_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_voice_search"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_voice_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_divider_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_divider_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_divider_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_divider_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_divider_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_divider_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_focused_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_focused_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_focused_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_longpressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_longpressed_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_pressed_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_pressed_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_pressed_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_pressed_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_selector_disabled_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_selector_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_list_selector_disabled_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_dropdown_panel_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_dropdown_panel_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_dropdown_panel_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_hardkey_panel_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_hardkey_panel_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_menu_hardkey_panel_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_default_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_default_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_disabled_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_disabled_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_focused_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_focused_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_focused_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_focused_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_pressed_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_pressed_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_spinner_ab_pressed_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_focused_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_focused_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_pressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_unselected_pressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_unselected_pressed_holo.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_default_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_default_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_default_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_default_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_selected_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_selected_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_selected_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_right_selected_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_selected_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_selected_holo_dark.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_selected_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_textfield_search_selected_holo_light.9.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_dark_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_solid_light_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_dark_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_bottom_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_bottom_transparent_light_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_share_pack_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_share_pack_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_share_pack_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_solid_dark_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_solid_light_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_solid_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_dark_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_solid_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_solid_light_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_dark_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_stacked_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_stacked_transparent_light_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_transparent_dark_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_transparent_dark_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ab_transparent_light_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ab_transparent_light_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_bottom_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_bottom_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_bottom_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_top_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_cab_background_top_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_cab_background_top_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_ab_back_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_ab_back_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_ab_back_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_cab_done_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_cab_done_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_cab_done_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_disabled"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_disabled.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_disabled.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_search_api_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_disabled_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_clear_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_clear_search_api_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_commit_search_api_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_commit_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_commit_search_api_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_go"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_go.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_go.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_go_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_go_search_api_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_moreoverflow_normal_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_moreoverflow_normal_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_moreoverflow_normal_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_share_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_dark.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_menu_share_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_menu_share_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_search"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_search.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_search.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_search_api_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_voice_search"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_voice_search.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_voice_search.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_ic_voice_search_api_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_ic_voice_search_api_holo_light.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_divider_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_divider_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_divider_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_divider_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_divider_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_focused_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_focused_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_longpressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_pressed_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_pressed_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_pressed_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_selector_disabled_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_list_selector_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_list_selector_disabled_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_dropdown_panel_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_dropdown_panel_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_dropdown_panel_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_hardkey_panel_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_menu_hardkey_panel_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_menu_hardkey_panel_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_default_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_disabled_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_disabled_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_disabled_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_focused_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_focused_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_focused_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_pressed_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_spinner_ab_pressed_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_spinner_ab_pressed_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_focused_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_focused_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_selected_pressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_selected_pressed_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_tab_unselected_pressed_holo"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_tab_unselected_pressed_holo.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_default_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_default_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_default_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_default_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_selected_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_right_selected_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_right_selected_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_selected_holo_dark"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_dark.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_textfield_search_selected_holo_light"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-xhdpi/abc_textfield_search_selected_holo_light.9.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="abc_action_bar_decor"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_decor_include"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_include.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_include.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_decor_overlay"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_overlay.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_overlay.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_home"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_home.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_home.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_tab"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tab.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tab.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_tabbar"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tabbar.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tabbar.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_title_item"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_title_item.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_title_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_view_list_nav_layout"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_menu_item_layout"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_item_layout.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_menu_layout"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_layout.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_mode_bar"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_bar.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_bar.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_mode_close_item"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_close_item.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_close_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_activity_chooser_view"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_activity_chooser_view_include"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_include.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_include.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_activity_chooser_view_list_item"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_expanded_menu_layout"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_expanded_menu_layout.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_expanded_menu_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_list_menu_item_checkbox"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_checkbox.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_list_menu_item_icon"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_icon.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_icon.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_list_menu_item_layout"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_layout.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_list_menu_item_radio"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_radio.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_radio.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_popup_menu_item_layout"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_popup_menu_item_layout.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_popup_menu_item_layout.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_screen"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_screen.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_screen.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_search_dropdown_item_icons_2line"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_search_view"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_view.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_view.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="support_simple_spinner_dropdown_item"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="abc_action_bar_decor"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v11/abc_action_bar_decor.xml"
                 qualifiers="v11"
                 type="layout" />
             <file
                 name="abc_activity_chooser_view"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v14/abc_activity_chooser_view.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout-v14/abc_activity_chooser_view.xml"
                 qualifiers="v14"
                 type="layout" />
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values/values.xml"
                 qualifiers="" >
 
                 <style
@@ -3686,7 +3686,7 @@ useLogo|showHome|showTitle
                 </style>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-land/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-land/values.xml"
                 qualifiers="land" >
                 <dimen name="abc_action_bar_title_text_size" >16dp
                 </dimen>
@@ -3716,7 +3716,7 @@ false
                 </bool>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-large/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-large/values.xml"
                 qualifiers="large-v4" >
                 <dimen name="abc_search_view_text_min_width" >192dip
                 </dimen>
@@ -3740,7 +3740,7 @@ false
                 </bool>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-sw600dp/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-sw600dp/values.xml"
                 qualifiers="sw600dp-v13" >
                 <dimen name="abc_action_bar_subtitle_top_margin" >-3dp
                 </dimen>
@@ -3763,7 +3763,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml"
                 qualifiers="v11" >
 
                 <style
@@ -3827,7 +3827,7 @@ false
                     parent="android:Widget.Holo.ProgressBar.Horizontal" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v14/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v14/values.xml"
                 qualifiers="v14" >
 
                 <style
@@ -4216,14 +4216,14 @@ middle
                     parent="android:Widget.Holo.ActionButton.Overflow" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w360dp/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w360dp/values.xml"
                 qualifiers="w360dp-v13" >
                 <integer name="abc_max_action_buttons" >
 3
                 </integer>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w480dp/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w480dp/values.xml"
                 qualifiers="w480dp-v13" >
                 <bool name="abc_action_bar_embed_tabs_pre_jb" >
 true
@@ -4236,14 +4236,14 @@ true
                 </bool>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w500dp/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w500dp/values.xml"
                 qualifiers="w500dp-v13" >
                 <integer name="abc_max_action_buttons" >
 4
                 </integer>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w600dp/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w600dp/values.xml"
                 qualifiers="w600dp-v13" >
                 <dimen name="abc_action_bar_title_text_size" >18dp
                 </dimen>
@@ -4268,14 +4268,14 @@ true
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-w720dp/values.xml"
                 qualifiers="w720dp-v13" >
                 <bool name="abc_action_bar_expanded_action_views_exclusive" >
 false
                 </bool>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-xlarge/values.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-xlarge/values.xml"
                 qualifiers="xlarge-v4" >
                 <dimen name="abc_action_bar_subtitle_top_margin" >-3dp
                 </dimen>
@@ -4305,124 +4305,124 @@ false
         </source>
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res" >
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="tile"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-hdpi/tile.9.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-hdpi/tile.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="p1"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p1.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p1.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p10"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p10.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p10.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p11"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p11.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p11.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p2"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p2.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p2.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p3"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p3.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p3.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p4"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p4.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p4.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p5"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p5.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p5.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p6"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p6.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p6.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p7"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p7.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p7.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p8"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p8.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p8.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="p9"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p9.jpg"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-nodpi/p9.jpg"
                 qualifiers="nodpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/activity_main.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_detail"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_detail.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_detail.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_detail_content"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_detail_content.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_detail_content.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_fragment_transition"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_fragment_transition.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/fragment_fragment_transition.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="item_meat_grid"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/item_meat_grid.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout/item_meat_grid.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="activity_main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout-w720dp/activity_main.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/layout-w720dp/activity_main.xml"
                 qualifiers="w720dp-v13"
                 type="layout" />
             <file
                 name="main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/menu/main.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/base-strings.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/base-strings.xml"
                 qualifiers="" >
                 <string name="app_name" >FragmentTransition
                 </string>
@@ -4437,7 +4437,7 @@ false
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/fragmentview_strings.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/fragmentview_strings.xml"
                 qualifiers="" >
                 <string name="sample_hide_log" >Hide Log
                 </string>
@@ -4445,13 +4445,13 @@ false
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/strings.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="lorem_ipsum" >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-dimens.xml"
                 qualifiers="" >
                 <dimen name="margin_huge" >64dp
                 </dimen>
@@ -4469,7 +4469,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values/template-styles.xml"
                 qualifiers="" >
 
                 <style name="Widget" />
@@ -4511,7 +4511,7 @@ false
                     parent="Theme.Sample" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-sw600dp/template-dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-sw600dp/template-dimens.xml"
                 qualifiers="sw600dp-v13" >
                 <dimen name="horizontal_page_margin" >@dimen/margin_huge
                 </dimen>
@@ -4519,7 +4519,7 @@ false
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-sw600dp/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-sw600dp/template-styles.xml"
                 qualifiers="sw600dp-v13" >
 
                 <style name="Widget.SampleMessage" >
@@ -4535,7 +4535,7 @@ false
                 </style>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-v11/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-v11/template-styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -4543,7 +4543,7 @@ false
                     parent="android:Theme.Holo.Light" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-v21/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/res/values-v21/template-styles.xml"
                 qualifiers="v21" >
 
                 <style
@@ -4551,13 +4551,13 @@ false
                     parent="android:Theme.Material.Light" />
             </file>
         </source>
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/common/res" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/template/res" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/build/generated/res/rs/debug" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/build/generated/res/generated/debug" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/common/res" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/template/res" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/debug/res" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/debug/res" />
     </dataSet>
 
 </merger>

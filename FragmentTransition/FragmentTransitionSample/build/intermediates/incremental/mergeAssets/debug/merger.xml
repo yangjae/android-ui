@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <merger version="2" >
 
+    <dataSet config="18.0.0" >
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/assets" />
+    </dataSet>
     <dataSet config="main" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/main/assets" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/main/assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/FragmentTransition/FragmentTransitionSample/src/debug/assets" />
+        <source path="/Users/diesel/GitHub/android-ui/FragmentTransition/FragmentTransitionSample/src/debug/assets" />
     </dataSet>
 
 </merger>

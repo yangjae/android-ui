@@ -2,75 +2,75 @@
 <merger version="2" >
 
     <dataSet config="21.0.0-rc1" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
     </dataSet>
     <dataSet config="21.0.0-rc1" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res" >
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res" >
             <file
                 name="ic_action_delete"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-hdpi/ic_action_delete.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-hdpi/ic_action_delete.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="tile"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-hdpi/tile.9.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-hdpi/tile.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_action_delete"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-mdpi/ic_action_delete.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-mdpi/ic_action_delete.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_action_delete"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-xhdpi/ic_action_delete.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-xhdpi/ic_action_delete.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
                 qualifiers="xxhdpi-v4"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/layout/activity_main.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="list_item"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/layout/list_item.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/layout/list_item.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sample_main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/layout/sample_main.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/layout/sample_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/menu/main.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/menu/main.xml"
                 qualifiers=""
                 type="menu" />
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/base-strings.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/base-strings.xml"
                 qualifiers="" >
                 <string name="app_name" >BorderlessButtons
                 </string>
@@ -86,7 +86,7 @@
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="standard_touch_target_size" >48dp
                 </dimen>
@@ -94,7 +94,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/strings.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="delete_content_description" >Delete
                 </string>
@@ -114,7 +114,7 @@
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/styles.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/styles.xml"
                 qualifiers="" >
 
                 <style name="Widget.DescriptionBar" >
@@ -142,7 +142,7 @@
                 </style>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/template-dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/template-dimens.xml"
                 qualifiers="" >
                 <dimen name="margin_huge" >64dp
                 </dimen>
@@ -160,7 +160,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values/template-styles.xml"
                 qualifiers="" >
 
                 <style name="Widget" />
@@ -202,7 +202,7 @@
                     parent="Theme.Sample" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-sw600dp/template-dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-sw600dp/template-dimens.xml"
                 qualifiers="sw600dp-v13" >
                 <dimen name="horizontal_page_margin" >@dimen/margin_huge
                 </dimen>
@@ -210,7 +210,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-sw600dp/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-sw600dp/template-styles.xml"
                 qualifiers="sw600dp-v13" >
 
                 <style name="Widget.SampleMessage" >
@@ -226,7 +226,7 @@
                 </style>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-v11/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-v11/template-styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -234,7 +234,7 @@
                     parent="android:Theme.Holo.Light" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-v21/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/main/res/values-v21/template-styles.xml"
                 qualifiers="v21" >
 
                 <style
@@ -242,13 +242,13 @@
                     parent="android:Theme.Material.Light" />
             </file>
         </source>
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/common/res" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/template/res" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/build/generated/res/rs/debug" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/build/generated/res/generated/debug" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/common/res" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/template/res" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/BorderlessButtons/BorderlessButtonsSample/src/debug/res" />
+        <source path="/Users/diesel/GitHub/android-ui/BorderlessButtons/BorderlessButtonsSample/src/debug/res" />
     </dataSet>
 
 </merger>

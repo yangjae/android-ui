@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-e7f45bcaba5775e33fb4f00c9128da91701160a6.jar"
+        jar="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="d1a625e8a94bf7c73e0f9d30ad1b483ff6ea64e9"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/build/intermediates/pre-dexed/debug/classes-4785c3ed84b152d0212a40caaca59866a8c507dc.jar"
+        jar="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7ae84435ebc95f67a3f5e511025e96caa8688da2"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-rc1-5e48d587fa4f1852d5a639499a107bc0f449d77f.jar"
+        jar="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/libs/internal_impl-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="b274fcef3e31367c6b53c3ad56ff788783eb0f28"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-rc1-9da56907a54bc62b80b021d0066dc3e5625c73ba.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0-rc1/support-annotations-21.0.0-rc1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="57c343f05b73b923bf2502b05851dbfe12193dcb"/>
+    <item
+        dex="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/SwipeRefreshLayoutBasicSample/build/intermediates/pre-dexed/debug/classes-6e3211d6676b5aae15c14aec112ca6ff873f6578.jar"
+        jar="/Users/diesel/GitHub/android-ui/SwipeRefreshLayoutBasic/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="50ffbc8fda41e9cba4bca2f5267bdd9842325ab2"/>
+
+</pre-dex-items>

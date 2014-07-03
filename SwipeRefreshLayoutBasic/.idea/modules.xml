@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayoutBasic.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayoutBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwipeRefreshLayoutBasicSample/SwipeRefreshLayoutBasicSample.iml" filepath="$PROJECT_DIR$/SwipeRefreshLayoutBasicSample/SwipeRefreshLayoutBasicSample.iml" />
+    </modules>
+  </component>
+</project>
+

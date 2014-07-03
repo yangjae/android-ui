@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/Users/diesel/github/Google%20Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-v21/template-styles.xml -->
+    <!-- From: file:/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-v21/template-styles.xml -->
     <eat-comment />
 
     <style name="Theme.Base" parent="android:Theme.Material.Light" />

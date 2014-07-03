@@ -2,50 +2,108 @@
 <merger version="2" >
 
     <dataSet config="21.0.0-rc1" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0-rc1/res" >
+            <file
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0-rc1/res/values/values.xml"
+                qualifiers="" >
+
+                <style name="CardView.Dark" >
+                    <item name="cardBackgroundColor">
+@color/cardview_dark_background
+                    </item>
+                </style>
+
+                <color name="cardview_light_background" >#FFFAFAFA
+                </color>
+
+                <style name="CardView.Light" >
+                    <item name="cardBackgroundColor">
+@color/cardview_light_background
+                    </item>
+                </style>
+
+                <color name="cardview_shadow_end_color" >#03000000
+                </color>
+
+                <style name="CardView" >
+                    <item name="cardBackgroundColor">
+@color/cardview_light_background
+                    </item>
+                </style>
+
+                <dimen name="cardview_default_radius" >2dp
+                </dimen>
+
+                <color name="cardview_dark_background" >#FF202020
+                </color>
+
+                <dimen name="cardview_shadow_size" >2dp
+                </dimen>
+                <dimen name="cardview_elevation" >2dp
+                </dimen>
+
+                <color name="cardview_shadow_start_color" >#37000000
+                </color>
+
+                <declare-styleable name="CardView" >
+
+                    <!-- Background color for CardView. -->
+                    <attr
+                        name="cardBackgroundColor"
+                        format="color" />
+                    <!-- Corner radius for CardView. -->
+                    <attr
+                        name="cardCornerRadius"
+                        format="dimension" />
+                </declare-styleable>
+            </file>
+        </source>
     </dataSet>
     <dataSet config="21.0.0-rc1" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0-rc1/res" />
+    </dataSet>
+    <dataSet config="21.0.0-rc1" >
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.0-rc1/res" />
     </dataSet>
     <dataSet config="main" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res" >
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res" >
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-hdpi/ic_launcher.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="tile"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-hdpi/tile.9.png"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-hdpi/tile.9.png"
                 qualifiers="hdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-mdpi/ic_launcher.png"
                 qualifiers="mdpi-v4"
                 type="drawable" />
             <file
                 name="ic_launcher"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/drawable-xhdpi/ic_launcher.png"
                 qualifiers="xhdpi-v4"
                 type="drawable" />
             <file
                 name="activity_main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/layout/activity_main.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/layout/activity_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="fragment_main_dummy"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/layout/fragment_main_dummy.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/layout/fragment_main_dummy.xml"
                 qualifiers=""
                 type="layout" />
             <file
                 name="sample_main"
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/layout/sample_main.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/layout/sample_main.xml"
                 qualifiers=""
                 type="layout" />
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/base-strings.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/base-strings.xml"
                 qualifiers="" >
                 <string name="app_name" >HorizontalPaging
                 </string>
@@ -61,7 +119,7 @@
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/dimens.xml"
                 qualifiers="" >
                 <dimen name="activity_horizontal_margin" >16dp
                 </dimen>
@@ -69,7 +127,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/strings.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/strings.xml"
                 qualifiers="" >
                 <string name="title_section1" >Section 1
                 </string>
@@ -81,7 +139,7 @@
                 </string>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/template-dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/template-dimens.xml"
                 qualifiers="" >
                 <dimen name="margin_huge" >64dp
                 </dimen>
@@ -99,7 +157,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values/template-styles.xml"
                 qualifiers="" >
 
                 <style name="Widget" />
@@ -141,7 +199,7 @@
                     parent="Theme.Sample" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-sw600dp/template-dimens.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-sw600dp/template-dimens.xml"
                 qualifiers="sw600dp-v13" >
                 <dimen name="horizontal_page_margin" >@dimen/margin_huge
                 </dimen>
@@ -149,7 +207,7 @@
                 </dimen>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-sw600dp/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-sw600dp/template-styles.xml"
                 qualifiers="sw600dp-v13" >
 
                 <style name="Widget.SampleMessage" >
@@ -165,7 +223,7 @@
                 </style>
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-v11/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-v11/template-styles.xml"
                 qualifiers="v11" >
 
                 <style
@@ -173,7 +231,7 @@
                     parent="android:Theme.Holo.Light" />
             </file>
             <file
-                path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-v21/template-styles.xml"
+                path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/main/res/values-v21/template-styles.xml"
                 qualifiers="v21" >
 
                 <style
@@ -181,13 +239,13 @@
                     parent="android:Theme.Material.Light" />
             </file>
         </source>
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/common/res" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/template/res" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/build/generated/res/rs/debug" />
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/build/generated/res/generated/debug" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/common/res" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/template/res" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/build/generated/res/rs/debug" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/build/generated/res/generated/debug" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="/Users/diesel/github/Google Samples/android-L/ui/HorizontalPaging/HorizontalPagingSample/src/debug/res" />
+        <source path="/Users/diesel/GitHub/android-ui/HorizontalPaging/HorizontalPagingSample/src/debug/res" />
     </dataSet>
 
 </merger>
